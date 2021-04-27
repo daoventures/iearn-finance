@@ -24,3 +24,5 @@ services:
 networks: 
   api_backend:
     external: true
+  dao-swap_dao_swap:
+    external: true
